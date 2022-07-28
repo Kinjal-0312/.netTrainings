@@ -1,0 +1,7 @@
+C:\Users\kinjal.samrit\source\repos\.netTrainings\27th July\task28thJuly\bin\Debug\task28thJuly.exe.config
+C:\Users\kinjal.samrit\source\repos\.netTrainings\27th July\task28thJuly\bin\Debug\task28thJuly.exe
+C:\Users\kinjal.samrit\source\repos\.netTrainings\27th July\task28thJuly\bin\Debug\task28thJuly.pdb
+C:\Users\kinjal.samrit\source\repos\.netTrainings\27th July\task28thJuly\obj\Debug\task28thJuly.csproj.AssemblyReference.cache
+C:\Users\kinjal.samrit\source\repos\.netTrainings\27th July\task28thJuly\obj\Debug\task28thJuly.csproj.CoreCompileInputs.cache
+C:\Users\kinjal.samrit\source\repos\.netTrainings\27th July\task28thJuly\obj\Debug\task28thJuly.exe
+C:\Users\kinjal.samrit\source\repos\.netTrainings\27th July\task28thJuly\obj\Debug\task28thJuly.pdb

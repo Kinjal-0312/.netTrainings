@@ -1,0 +1,4 @@
+﻿Build started...
+1>------ Build started: Project: task28thJuly, Configuration: Debug Any CPU ------
+1>  task28thJuly -> C:\Users\kinjal.samrit\source\repos\.netTrainings\27th July\task28thJuly\bin\Debug\task28thJuly.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
